@@ -1,0 +1,7 @@
+.menu{
+    color:black;
+}
+.menu.active{
+    color: green;
+    /* font-size: 1rem; */
+}
